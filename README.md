@@ -18,4 +18,3 @@ To build Android hardfp library with the new CXD4 RSP + NEON + Parallel RDP do:
 
 To build Android arm64 library with the new CXD4 RSP + Parallel RDP + dynarec do:
 * ndk-build APP_ABI=arm64-v8a
-
